@@ -83,15 +83,4 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 	julien@ubuntu:~/RSA Factoring Challenge$ ./rsa tests/rsa-1
 	6=3*2
 	julien@ubuntu:~/RSA Factoring Challenge$ cat tests/rsa-2
-	77
-```
-
-## Author
-
-[David Atat](www.github.com/daveeazi)
-
-## Resources
-
-- [RSA](<https://en.wikipedia.org/wiki/RSA_(cryptosystem%29)>)
-- [How does HTTPS provide security?](https://stackoverflow.com/questions/3968095/how-does-https-provide-security)
-- [Prime Factorization](https://privacycanada.net/mathematics/prime-factorization/)
+	
